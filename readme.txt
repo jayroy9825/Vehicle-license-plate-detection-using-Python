@@ -1,1 +1,1 @@
-Run Main.py
+Run main.ipynb
