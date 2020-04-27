@@ -22,8 +22,26 @@ PIL,Tkinter
 ````
 ## Explanation of Project
 
-inprocesss
+The Project consists of following steps-
+* Preprocessing
+* Localization of number plate(using K-means algo)
+* Character Recognition
+
+    ![](/output.png)
+    
+Flowchart of how Project works:
+
+   ![](/flowchart.png)
+
+
+Detailed Explanation of Project is given in Video
+
 
 ### Final video 
 
 INPROCess
+
+#### Submitted by:-  
+###### 18BCE199 Jay Roy
+###### 18BCE202 Rushi Patel
+###### 18BCE209 Sanidhya Jain
