@@ -14,6 +14,12 @@ Nowadays, there are many commercial systems that involve license plate recogniti
 
 * Access control: The automatic opening of a door for authorized members in a safety zone. This kind of system is set up to help security officers. Events are stored on a database and can be used to search event history when needed.
 
+## Evaluating the Project
+Run the following File 
+````
+main.ipynb
+````
+
 ## API used in Project
 
 ````
@@ -36,11 +42,7 @@ Flowchart of how Project works:
 
 Detailed Explanation of Project is given in Video
 
-## Evaluating the Project
-Run the following File 
-````
-main.ipynb
-````
+
 ### Final video 
 
 INPROCess
