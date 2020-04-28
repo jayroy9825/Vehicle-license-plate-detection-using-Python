@@ -36,7 +36,11 @@ Flowchart of how Project works:
 
 Detailed Explanation of Project is given in Video
 
-
+## Evaluating the Project
+Run the following File 
+````
+main.ipynb
+````
 ### Final video 
 
 INPROCess
