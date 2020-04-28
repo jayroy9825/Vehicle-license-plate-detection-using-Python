@@ -1,5 +1,5 @@
 
-# Python Project - Number plate Detection on Indian car with GUI
+# Python Project - Number plate Detection for Indian car with GUI
 
 Generally speaking, human beings can recognize objects without too much effort or consideration. However, recognizing objects in images can be a very difficult task in the field of computer vision.
 There are many use cases in which this difficulty becomes evident. One specific use case involves license plate detection—it’s particularly a big challenge because of the differences inherent in the plates (i.e. the objects) themselves: different sizes and styles, the conditions and lighting under which the images of the plates are captured, etc.
