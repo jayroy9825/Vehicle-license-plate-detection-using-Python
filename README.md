@@ -47,7 +47,4 @@ Detailed Explanation of Project is given in Video
 
 https://youtu.be/azM6UWjmrA0
 
-#### Submitted by:-  
-###### 18BCE199 Jay Roy
-###### 18BCE202 Rushi Patel
-###### 18BCE209 Sanidhya Jain
+
