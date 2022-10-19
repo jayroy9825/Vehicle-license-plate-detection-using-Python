@@ -30,7 +30,7 @@ PIL,Tkinter
 
 The Project consists of following steps-
 * Preprocessing
-* Localization of number plate(using K-means algo)
+* Localization of number plate
 * Character Recognition
 
     ![](/output.png)
